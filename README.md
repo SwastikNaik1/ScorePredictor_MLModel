@@ -1,4 +1,4 @@
-# ScorePredictor_MLModel
+# Score_Predictor_MLModel
 
 As a passionate learner and data enthusiast, I embarked on an exciting journey to create "Score_Predictor," an intelligent machine learning model that predicts a student's marks based on the number of hours they study. Leveraging the power of cutting-edge technologies like NumPy, Pandas, matplotlib, and sci-kit-learn, I transformed raw data into valuable insights. Allow me to take you on a captivating ride through my ML project, where I unraveled the secrets hidden within the data and built an accurate student marks predictor with an astounding 95% accuracy!
 
